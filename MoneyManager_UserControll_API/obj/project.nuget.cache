@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8f9FSXVl//Ft0OgN6NFHkM60w8Ad+vWZCrUfxUpJIj4r+cinZFBVtC65/bglC21zo72Oy3F/mzZZ4ZjlW/UtpQ==",
+  "dgSpecHash": "M6u+G6cJFvvgE/IwSFCjc5no3ED58Gbhf7nUpToOrtkVcsqwwp6K1MYEIbE4JAdVKWTlOx5MRkrQ36LJUqmADg==",
   "success": true,
-  "projectFilePath": "D:\\projects\\MoneyManager\\MoneyManager_UserControll_API\\MoneyManager_UserControll_API_App\\MoneyManager_UserControll_APII\\MoneyManager_UserControll_APII.csproj",
+  "projectFilePath": "D:\\projects\\MoneyManager\\MoneyManager_UserControll_API\\MoneyManager_UserControll_API_App\\MoneyManager_UserControll_API\\MoneyManager_UserControll_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikola\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

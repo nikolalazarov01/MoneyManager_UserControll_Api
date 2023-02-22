@@ -1,3 +1,4 @@
+using System.Reflection;
 using Core.Configuration;
 using Data.Configuration;
 using Microsoft.AspNetCore.Identity;
@@ -11,6 +12,10 @@ builder.Services.SetupDatabase(configuration);
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddEntityFrameworkStores<DbContext>();
+
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+builder.Services.SetupServices();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

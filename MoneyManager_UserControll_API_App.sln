@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyManager_UserControll_APII", "MoneyManager_UserControll_APII\MoneyManager_UserControll_APII.csproj", "{EFF2299D-4B4B-4455-94A8-70021F5CA430}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{2FDD97F9-8D87-4AB3-A77D-38240942EC83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{EFF2299D-4B4B-4455-94A8-70021F5CA430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFF2299D-4B4B-4455-94A8-70021F5CA430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFF2299D-4B4B-4455-94A8-70021F5CA430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDD97F9-8D87-4AB3-A77D-38240942EC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDD97F9-8D87-4AB3-A77D-38240942EC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDD97F9-8D87-4AB3-A77D-38240942EC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDD97F9-8D87-4AB3-A77D-38240942EC83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

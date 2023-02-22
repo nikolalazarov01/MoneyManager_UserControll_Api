@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using MoneyManager_API.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +19,7 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>()
 
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 builder.Services.SetupServices();
+builder.Services.SetupValidation();
 
 var key = builder.Configuration.GetValue<string>("ApiSettings:SecretKey");
 

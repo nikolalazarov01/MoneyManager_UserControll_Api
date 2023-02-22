@@ -15,3 +15,5 @@ D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll
 D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Core\obj\Debug\net7.0\refint\Core.dll
 D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Core\obj\Debug\net7.0\Core.pdb
 D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Core\obj\Debug\net7.0\ref\Core.dll
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Core\bin\Debug\net7.0\Utilities.dll
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Core\bin\Debug\net7.0\Utilities.pdb

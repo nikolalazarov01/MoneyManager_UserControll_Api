@@ -12,3 +12,6 @@ D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll
 D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.pdb
 D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
 D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\ref\Data.dll
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\bin\Debug\net7.0\Utilities.dll
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\bin\Debug\net7.0\Utilities.pdb
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.csproj.CopyComplete

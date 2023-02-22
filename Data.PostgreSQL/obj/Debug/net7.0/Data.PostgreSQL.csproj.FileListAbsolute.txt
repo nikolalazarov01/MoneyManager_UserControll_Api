@@ -13,3 +13,5 @@ D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll
 D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data.PostgreSQL\obj\Debug\net7.0\refint\Data.PostgreSQL.dll
 D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data.PostgreSQL\obj\Debug\net7.0\Data.PostgreSQL.pdb
 D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data.PostgreSQL\obj\Debug\net7.0\ref\Data.PostgreSQL.dll
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data.PostgreSQL\bin\Debug\net7.0\Utilities.dll
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data.PostgreSQL\bin\Debug\net7.0\Utilities.pdb

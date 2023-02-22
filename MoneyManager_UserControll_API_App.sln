@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyManager_UserControll_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{2FDD97F9-8D87-4AB3-A77D-38240942EC83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.PostgreSQL", "Data.PostgreSQL\Data.PostgreSQL.csproj", "{91317F50-80A4-404E-88D6-72AB220E54EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2FDD97F9-8D87-4AB3-A77D-38240942EC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FDD97F9-8D87-4AB3-A77D-38240942EC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FDD97F9-8D87-4AB3-A77D-38240942EC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91317F50-80A4-404E-88D6-72AB220E54EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91317F50-80A4-404E-88D6-72AB220E54EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91317F50-80A4-404E-88D6-72AB220E54EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91317F50-80A4-404E-88D6-72AB220E54EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -15,6 +15,6 @@ public static class ServicesConfigurationExtensions
         if (serviceCollection is null) throw new ArgumentNullException(nameof(serviceCollection));
 
         serviceCollection.AddScoped<IUserRepository, UserRepository>();
-        //serviceCollection.AddScoped<IUnitOfWork, UnitOfWork>();
+        serviceCollection.AddScoped<IUnitOfWork, UnitOfWork>();
     }
 }

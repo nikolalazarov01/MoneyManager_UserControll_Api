@@ -1,0 +1,14 @@
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\bin\Debug\net7.0\Data.deps.json
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\bin\Debug\net7.0\Data.dll
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\bin\Debug\net7.0\Data.pdb
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.dll
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\refint\Data.dll
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.pdb
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+D:\projects\MoneyManager\MoneyManager_UserControll_API\MoneyManager_UserControll_API_App\Data\obj\Debug\net7.0\ref\Data.dll

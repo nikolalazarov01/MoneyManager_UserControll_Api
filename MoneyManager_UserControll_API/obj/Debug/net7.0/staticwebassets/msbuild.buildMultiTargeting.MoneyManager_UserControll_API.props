@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MoneyManager_UserControll_API.props" />
+</Project>

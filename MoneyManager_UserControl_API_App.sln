@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyManager_UserControll_API", "MoneyManager_UserControll_API\MoneyManager_UserControll_API.csproj", "{EFF2299D-4B4B-4455-94A8-70021F5CA430}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyManager_UserControl_API", "MoneyManager_UserControl_API\MoneyManager_UserControl_API.csproj", "{EFF2299D-4B4B-4455-94A8-70021F5CA430}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{2FDD97F9-8D87-4AB3-A77D-38240942EC83}"
 EndProject

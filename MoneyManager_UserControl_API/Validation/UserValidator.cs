@@ -1,7 +1,7 @@
 ﻿using Data.Models.DTO;
 using FluentValidation;
 
-namespace MoneyManager_API.Validation;
+namespace MoneyManager_UserControll_APII.Validation;
 
 public class UserValidator : AbstractValidator<RegisterRequestDto>
 {
